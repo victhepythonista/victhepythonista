@@ -67,5 +67,10 @@
 | art-showcase | [![PyPI Downloads](https://static.pepy.tech/badge/art-showcase)](https://pepy.tech/projects/art-showcase) |
 
 
+<p align="center">
 
-[![Goodbye ](https://static.pepy.tech/badge/art-showcase)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljaWhpeGM1aml1M2o1eWdvb3RzMWgyZXpldHZ3dHJmams5c21wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljaWhpeGM1aml1M2o1eWdvb3RzMWgyZXpldHZ3dHJmams5c21wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif" alt="Goodbye">
+
+
+</p>
+
