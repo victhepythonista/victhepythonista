@@ -1,10 +1,7 @@
 
 # Victor Kipkemboi  
 
- I am a sentient bipedal organism residing on a wet rock that revolves around a relatively gigantic and radioactive ball of hot dense matter............................I am also a full stack software engineer  , nature & science enthusiast and part-time sketch artist
-
-
-
+ I am a sentient bipedal organism residing on a wet rock that revolves around a relatively gigantic and radioactive ball of hot dense matter............................I am also a full stack software engineer  , nature lover,  science enthusiast and part-time sketch artist . 
 
 ## I specialize in :
 
@@ -15,12 +12,36 @@
 
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=victhepythonista">
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=victhepythonista&show_icons=true">
+
+
+</p>
+
+
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhepythonista&theme=blue-green">
+
+
+</p>
+
+
+
+
+
+
+
+
 
 ## SKILLSET
-
-
-
-
 
 
 
@@ -69,6 +90,7 @@
 | code-monger  | [![PyPI Downloads](https://static.pepy.tech/badge/code-monger)](https://pepy.tech/projects/code-monger)   |
 | art-showcase | [![PyPI Downloads](https://static.pepy.tech/badge/art-showcase)](https://pepy.tech/projects/art-showcase) |
 
+##                                          السلام للعالم
 
 <p align="center">
 
