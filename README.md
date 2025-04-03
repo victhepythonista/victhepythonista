@@ -14,7 +14,11 @@
 - 2D games and animations
 
 
+
+
 ## SKILLSET
+
+
 
 
 
@@ -53,6 +57,11 @@
   </td>
   </tr>
 </table>
+
+
+
+
+
 
 
 ## My 2 cents in open source
