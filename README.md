@@ -7,7 +7,7 @@
 </p>
  
 
-### sentient bipedal organism residing on a wet rock that revolves around a relatively gigantic and radioactive ball of hot dense matter who ekes a living as a full stack software engineer . I'm also naturalist ,  science enthusiast and part-time sketch artist . 
+### sentient bipedal organism on a small wet cosmic rock that ekes a living as a full stack software engineer . I'm also naturalist ,  science enthusiast and part-time sketch artist . 
 
 ## I specialize in :
 
