@@ -93,11 +93,7 @@
 
 
 </p>
-<p align="center">
-
-<img   src="https://wakatime.com"><img src="https://wakatime.com/share/@victhepythonista/0fc979d2-a0b2-4a1b-972d-93bd2d0ae78a.png">
-</p>
-
+ 
 
 
 
