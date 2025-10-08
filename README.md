@@ -102,8 +102,7 @@
 
 
 
-
-[![Wakatime Stats](https://wakatime-activity-chart.vercel.app/?id=victhepythonista)](https://github.com/eiko03/wakatime-activity-chart)
+ 
 
 
 
