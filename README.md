@@ -91,7 +91,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhepythonista&theme=blue-green">
 
-<img   src="https://wakatime.com/share/@victhepythonista/d03741fc-db57-49ae-827d-5694f9f9810f.svg">
+<img   src="https://wakatime.com"><img src="https://wakatime.com/share/@victhepythonista/0fc979d2-a0b2-4a1b-972d-93bd2d0ae78a.png">
 
 
 </p>
