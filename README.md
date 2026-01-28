@@ -1,26 +1,60 @@
 
-#                         VICTOR KIPKEMBOI
-
-
+<h1 align="center"> VICTOR KIPKEMBOI </h1>
+ 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=victhepythonista"> <img src="https://wakatime.com/badge/user/c1a77a3b-a180-4db0-b88f-60a5d50b527c.svg">
 </p>
  
 
-### Full stack software engineer | AI code cleanup | web scraping | custom automations | 2D game development  
+#### Full stack software engineer | AI code cleanup | web scraping | custom automations | 2D game development  
+
+ 
+<div align="center"> 
+
+![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)
+
+
+</div>
+
+
+----------------------------------------------------------------------
+
+
+<div align="center"> 
+
+
+
+![Python](https://img.shields.io/badge/Python-1976D2?style=for-the-badge) 
+![Javascript](https://img.shields.io/badge/javascript-FDD835?style=for-the-badge) 
+![C](https://img.shields.io/badge/C-BBAEAA?style=for-the-badge) 
+![Python](https://img.shields.io/badge/SQL-0d47AA?style=for-the-badge)
+
+
+![Python](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
+![Python](https://img.shields.io/badge/CSS-00bcd4?style=for-the-badge)
+![Python](https://img.shields.io/badge/bootstrap-0d47AA?style=for-the-badge)
+![Python](https://img.shields.io/badge/Jquery-0d47AA?style=for-the-badge)
+
+
+![Python](https://img.shields.io/badge/DJANGO-43A047?style=for-the-badge)
+![Python](https://img.shields.io/badge/Pygame-03A9F4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Selenium-03A9F4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Beautiful soup-03A9F4?style=for-the-badge)
+
+
+
+</div>
+
+
+----------------------------------------------------------------------
+
+<h3 align="center">Open source projects</h3>
 
  
 
+<div align="center">
 
-
- 
-
-
-
-## My 2 cents in open source
-
-- These are open source Python libraries I've contributed, more on the way
 
 | Library      | Stats                                                                                                     |
 | ------------ | --------------------------------------------------------------------------------------------------------- |
@@ -36,6 +70,18 @@
 
 
 
+</div>
+
+
+
+ 
+
+
+
+
+ 
+ 
+
 
 
 
@@ -45,29 +91,6 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhepythonista&theme=blue-green">
 
-
-</p>
- 
-
-
-
-
-
- 
-
-
-
-
-
-#                                          السلام للعالم
-
-<p align="center">
-
- 
-
-
-</p>
+<h2 align="center">                           السلام للعالم</h2>
 
