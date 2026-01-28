@@ -1,5 +1,6 @@
 
-#                            *Victor Kipkemboi*  
+#                         VICTOR KIPKEMBOI
+
 
 
 <p align="center">
@@ -7,52 +8,13 @@
 </p>
  
 
-### sentient bipedal organism on a small wet cosmic rock that ekes a living as a full stack software engineer . I'm also naturalist ,  science enthusiast and part-time sketch artist . 
+### Full stack software engineer | AI code cleanup | web scraping | custom automations | 2D game development  
 
-## I specialize in :
-
-- Web automation/scraping/crawling bots 
-- Development of full stack , scalable and secure websites
-- Desktop app development
-- 2D games and animations
+ 
 
 
 
-
-
-##                             My coding skills in a nutshell
-
-
-
-<table>
-	<tr>
-		<td> Category </td>
-		<td> Skill </td>
-	</tr> 
-	<tr>
-		<td>Programming , markup and scripting  languages</td>
-		<td>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="44" height="44"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="44" height="44"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44"  />
-          </p>
-  </td>
-  </tr>
-<tr>
-      <td>Frontend and backend website development</td>
-      <td>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="44" height="44" />
-          </p>
-  </td>
-  </tr>
-   <tr>
-      <td>Database</td>
-      <td>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="44" height="44" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="44" height="44" />   
-          </p>
-  </td>
-  </tr>
-</table>
-
-
+ 
 
 
 
@@ -78,12 +40,7 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victhepythonista&show_icons=true">
-
-
-</p>
-
+ 
 
 
 
