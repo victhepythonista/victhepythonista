@@ -12,7 +12,7 @@
  
 <div align="center"> 
 
-[![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)](https://victhepythonista.github.io)
+[![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFEB3B?style=for-the-badge)](https://victhepythonista.github.io)
 
 
 </div>
@@ -32,7 +32,7 @@
 ![Python](https://img.shields.io/badge/Bash-546E7a?style=for-the-badge)
 
 
-![Python](https://img.shields.io/badge/bootstrap-0d47AA?style=for-the-badge)
+![Python](https://img.shields.io/badge/bootstrap-ff6f00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
 ![Python](https://img.shields.io/badge/CSS-00bad4?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Jquery-0d47AA?style=for-the-badge)
