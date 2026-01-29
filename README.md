@@ -12,7 +12,7 @@
  
 <div align="center"> 
 
-![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)(https://victhepythonista.github.io)
+[![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)](https://victhepythonista.github.io)
 
 
 </div>
