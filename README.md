@@ -12,7 +12,7 @@
  
 <div align="center"> 
 
-![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)
+![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFFFFF?style=for-the-badge)(https://victhepythonista.github.io)
 
 
 </div>
@@ -31,16 +31,16 @@
 ![Python](https://img.shields.io/badge/SQL-0d47AA?style=for-the-badge)
 
 
-![Python](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
-![Python](https://img.shields.io/badge/CSS-00bcd4?style=for-the-badge)
 ![Python](https://img.shields.io/badge/bootstrap-0d47AA?style=for-the-badge)
+![Python](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
+![Python](https://img.shields.io/badge/CSS-00bad4?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Jquery-0d47AA?style=for-the-badge)
 
 
 ![Python](https://img.shields.io/badge/DJANGO-43A047?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Pygame-03A9F4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Selenium-03A9F4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Beautiful soup-03A9F4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Beautiful%20soup-A3A924?style=for-the-badge)
+![Python](https://img.shields.io/badge/Selenium-A399F4?style=for-the-badge)
 
 
 
