@@ -29,7 +29,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-FDD835?style=for-the-badge) 
 ![C](https://img.shields.io/badge/C-BBAEAA?style=for-the-badge) 
 ![Python](https://img.shields.io/badge/SQL-0d47AA?style=for-the-badge)
-![Python](https://img.shields.io/badge/Bash-1AE73A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Bash-546E7a?style=for-the-badge)
 
 
 ![Python](https://img.shields.io/badge/bootstrap-0d47AA?style=for-the-badge)
