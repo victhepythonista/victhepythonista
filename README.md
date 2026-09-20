@@ -7,7 +7,7 @@
 </p>
  
 
-#### Full stack software engineer | AI code cleanup | web scraping | custom automations | 2D game development  
+#### Full stack python developer| Django   | web scraping & automations | CI/CD |  APIs  | Data analytics
 
  
 <div align="center"> 
