@@ -16,7 +16,7 @@
 [![Python](https://img.shields.io/badge/Check%20out%20my%20website-FFEB3B?style=for-the-badge)](https://victhepythonista.github.io)
 
 
-[![Python](https://img.shields.io/badge/PAID%20-FFEB3B?style=for-the-badge)](https://victhepythonista.github.io/paid_projects.html)
+[![Python](https://img.shields.io/badge/PAID%20PROJECTS-FFEB3B?style=for-the-badge)](https://victhepythonista.github.io/paid_projects.html)
 
 
 </div>
